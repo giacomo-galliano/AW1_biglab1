@@ -8,7 +8,6 @@ Team members:
 * s287555 Dimatteo Roberto 
 * s292482 Galliano Giacomo
 * s292474 Gulotta Dario Paolo
-## title
 ## Instructions
 
 A general description of the BigLab 1 is avaible in the `course-materials` repository, [under _labs_](https://github.com/polito-WA1-AW1-2021/course-materials/tree/main/labs/BigLab1/BigLab1.pdf). In the same repository, you can find the [instructions for GitHub Classroom](https://github.com/polito-WA1-AW1-2021/course-materials/tree/main/labs/GH-Classroom-BigLab-Instructions.pdf), covering this and the next BigLab.
